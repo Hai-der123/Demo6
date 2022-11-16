@@ -1,0 +1,31 @@
+package variables3;
+
+public class variablesclass2 {
+
+    public static void main(String [] args){
+        int a= 1;
+
+        a++; // a=a+1
+        System.out.println("value of a after a++" + a);
+
+        a--; // a=a-1
+        System.out.println("value of a after a--" + a);
+
+        int b=5;
+        int c=5;
+        int sum=b+c;
+        System.out.println("sum is " + sum);
+
+        int x=5;
+        int y=5;
+        int multiply=b*c;
+        System.out.println("multiply is " + multiply);
+
+        int w=5;
+        int z=5;
+        int divide=5/5;
+        System.out.println("divide is " + divide);
+
+    }
+
+}
