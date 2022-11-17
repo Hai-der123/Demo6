@@ -12,12 +12,12 @@ public class variablesclass2 {
         // SYNTAX DATATYPE varName = value;
 
         int age = 50;
-        System.out.println("The time has been years " + age);
+        System.out.println("The time has been years " + age + " ago.");
 
         // SYNTAX Datatype varName = value;
 
-        double salary = 565623.02;
-        System.out.println("The salary is " + salary);
+        double income = 565623.02;
+        System.out.println("The salary is " + income);
 
     }
 }
